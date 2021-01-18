@@ -9,4 +9,4 @@ Usage :-
 <br>./todo report           # Statistics
 
 Install required libraries :
-pip install -r requirement.txt
+<br>pip install -r requirement.txt
