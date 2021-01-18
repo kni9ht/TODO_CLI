@@ -4,7 +4,7 @@ Todo is a simple CLI application made using python.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install TODO.
 
 ```bash
 pip install -r requirement.txt
