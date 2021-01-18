@@ -1,12 +1,29 @@
 # TODO_CLI
-It's a CLI application made in python.
 
-Usage :-
-<br>./todo ls               # Show remaining todos
-<br>./todo del NUMBER       # Delete a todo
-<br>./todo done NUMBER      # Complete a todo
-<br>./todo help             # Show usage
-<br>./todo report           # Statistics
+Todo is a simple CLI application made using python.
 
-Install required libraries :
-<br>pip install -r requirement.txt
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install -r requirement.txt
+```
+
+## Usage
+
+```python
+./todo ls              # Show remaining todos
+./todo del NUMBER      # Delete a todo
+./todo done NUMBER     # Complete a todo
+./todo help            # Show usage
+./todo report          # Statistics
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
